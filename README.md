@@ -75,6 +75,7 @@ pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
 * Verified data via initial SQL checks.
 
 ### 9. SQL-Based Business Analysis
+### Follow for SQL Business Queries : [Business SQL Queries](https://github.com/laxdippatel/walmart_revenue_and_trends/blob/main/Business_SQL_Quries.md)
 
 Answered key questions like:
 
