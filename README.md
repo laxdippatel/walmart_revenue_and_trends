@@ -14,6 +14,9 @@ This project is an **end-to-end data analysis solution** aimed at extracting val
 
 It serves as an ideal case study for aspiring **Data Analysts** and professionals looking to improve skills in **data manipulation, SQL querying, dashboard reporting, and analytical problem-solving**.
 
+![image](https://github.com/user-attachments/assets/50c98210-8ef2-4f95-810c-11e36317789c)
+
+
 ---
 
 ## ⚙️ Tools & Technologies
@@ -26,6 +29,15 @@ It serves as an ideal case study for aspiring **Data Analysts** and professional
 * **APIs**: Kaggle API for dataset download
 
 ---
+## ✅ Requirements
+
+* Python 3.8+
+* MySQL and PostgreSQL setup
+* Kaggle API access
+* Required libraries installed : `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
+
+---
+
 
 ## 📁 Project Workflow
 
@@ -102,6 +114,8 @@ Each SQL script includes:
 ---
 
 ## 📊 Results & Insights
+![image](https://github.com/user-attachments/assets/5ac269d5-3332-4265-b241-d54a154b4134)
+
 
 ### 🔹 Sales Insights
 
@@ -137,14 +151,3 @@ Here are 3 potential future upgrades:
 ├── sql/                       # SQL queries used for analysis
 └── README.md                  # Project documentation (this file)
 ```
-
----
-
-## ✅ Requirements
-
-* Python 3.8+
-* MySQL and PostgreSQL setup
-* Kaggle API access
-* Required libraries installed
-
----
