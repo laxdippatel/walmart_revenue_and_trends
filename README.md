@@ -1,4 +1,4 @@
-# walmart_revenue_and_trends
+# Walmart Revenue Data Analysis
 An end-to-end data analysis project on Walmart sales using Python, SQL (MySQL &amp; PostgreSQL), and Power BI. Includes data cleaning, feature engineering, complex SQL queries, and insightful dashboards to uncover trends, revenue patterns, and customer behavior for business decision-making.
 Here’s a polished and professional version of your project documentation for GitHub, tailored for clarity, structure, and professionalism in Markdown format:
 
