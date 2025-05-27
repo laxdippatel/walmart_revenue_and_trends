@@ -5,6 +5,8 @@ Here’s a polished and professional version of your project documentation for G
 ---
 
 # 🛒 Walmart Revenue and Trends – Power BI Data Analysis Project
+![image](https://github.com/user-attachments/assets/1e59857a-dd97-42da-9e7b-266ed00dde41)
+
 
 ## 📌 Overview
 
@@ -39,7 +41,7 @@ It serves as an ideal case study for aspiring **Data Analysts** and professional
 
 ### 3. Download Walmart Sales Dataset
 
-* Source: [Walmart Sales Dataset](https://www.kaggle.com/)
+* Source: [Walmart Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets).
 * Downloaded into `data/` directory for easy access.
 
 ### 4. Install Required Libraries & Load Data
